@@ -1,4 +1,4 @@
-[
+
     {
         "F_Name": "Ellen",
         "L_Name": "Ripley",
@@ -29,10 +29,4 @@
         "Student_ID": 21396883,
         "Email": "crylong@my365.bellevue.edu"
     },
-    {
-        "F_Name": "Crystal",
-        "L_Name": "Long",
-        "Student_ID": 21396883,
-        "Email": "crylong@my365.bellevue.edu"
-    }
-]
+  
